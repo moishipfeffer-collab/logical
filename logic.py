@@ -31,3 +31,7 @@ username = ""
 default = "guest"
 final_username=default or username
 print(final_username)
+#section 9
+print(True and False or True)
+print(True and False or True)
+print("first and result false then or with true or false")
