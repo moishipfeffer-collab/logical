@@ -4,3 +4,6 @@ has_access=False
 print(is_online and has_access)
 #section 2
 print(is_online or has_access)
+#section 3
+status = False
+print(not status)
