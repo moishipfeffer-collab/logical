@@ -27,9 +27,9 @@ y = 42
 print(x or y)
 # the value of y is retured becous y is the true wan
 #section 8
-username = "" 
 default = "guest"
-final_username=default or username
+username = "moishi" 
+final_username=username or default
 print(final_username)
 #section 9
 print(True and False or True)
