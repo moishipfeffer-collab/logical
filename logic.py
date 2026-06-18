@@ -21,3 +21,8 @@ c = ""
 print (bool(a))
 print (bool(b))
 print (bool(c))
+#section 7
+x = None 
+y = 42
+print(x or y)
+# the value of y is retured becous y is the true wan
