@@ -7,3 +7,9 @@ print(admin_override or has_key and door_locked)
 message = "" 
 backup_message = "No message found"
 print(message or backup_message)
+#section 3
+x = None
+print(x is None)
+#befuor using a value chek if it exists
+#section 4
+
