@@ -35,3 +35,6 @@ print(final_username)
 print(True and False or True)
 print(True and False or True)
 print("first and result false then or with true or false")
+#section 10
+score = 75
+print(score>60 and score<100)
