@@ -11,3 +11,6 @@ print(not status)
 age = 20 
 has_id = True
 print(age and has_id)
+#section 5
+level = 3
+print(level>1 and level<5)
